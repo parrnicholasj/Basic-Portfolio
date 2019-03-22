@@ -6,31 +6,91 @@ body
 
 }
 
+/* header
+{
+
+  float: left;
+  background-color: #29b6f6;
+  padding: 20px;
+
+} */
+
 h1
 {
 
-background-color: #006eff;
 font-family: 'Georgia', Times, Times New Roman, serif;
-color: white;
+background-color: #29b6f6;
 float: left;
-width: 60%;
+margin-top: 0;
+padding: 30px;
+width: 20%;
 
 }
 
 a
 {
 
-color: white;
-float: left;
+color: black;
+
+}
+
+.top
+{
+
+background-color: #ffeb3b;
+float: right;
+margin : 18px;
+margin-top: 0;
+padding: 5px;
+box-shadow: 2px 2px;
 
 }
 
 nav
 {
-
-  background-color: #006eff;
+  
+  background-color: #73e8ff;
+  width:76%;
   float: left;
-  width: 40%
+  padding: 5px;
+
+}
+
+section
+{
+
+padding: 5%;
+
+}
+
+.profile
+{
+
+float: left;
+width: 20%;
+
+}
+
+p
+{
+
+float: left;
+max-width: 50%;
+text-align: center;
+
+}
+
+footer
+{
+
+  background-color: #73e8ff;
+  width: 100%;
+  text-align:center;
+  padding: 20px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
 
 }
 
