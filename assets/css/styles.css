@@ -120,6 +120,24 @@ textarea
 
 }
 
+.img1 {
+  background-image: url("assets/images/planetDender.webp");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; 
+}
+
+.img1text {
+  text-align: center;
+  position: absolute;
+  top: 50p;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
 .clearfix
 {
 
